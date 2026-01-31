@@ -1,0 +1,2 @@
+'5.1.0; Vijeo-Designer 6.2.6 CSV output
+Type;Name;Data Type;Data Source;Dimension;Description;Initial Value;NumofBytes;Data Sharing;Alarm;Language1 ID;Alarm Message;Alarm Type;Trigger Condition;Deadband;Target;LoLo\Lo\Hi\HiHi;Minor;Major;Alarm Group;Severity;Vibration Pattern;Vibration Time;Sound File;Play Mode;Scan Group;Device Address;Bit Number;Data Format;Signed;Data Length;Offset Bit No;Bit Width;InputRange;Min;Max;DataScaling;RawMin;RawMax;ScaledMin;ScaledMax;IndirectEnabled;IndirectAddress;Retentive;LoggingGroup;LogUserOperationsOnVariable
